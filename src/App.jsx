@@ -4,6 +4,7 @@ import Navbar from './components/Navbar'
 import Pricing from './components/Pricing'
 import Ratings from './components/Ratings'
 import StepsCards from './components/StepsCards'
+import TransformSection from './components/TransformSection'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
      <Ratings />
      <StepsCards />
      <Pricing />
+     <TransformSection />
     </>
   )
 }

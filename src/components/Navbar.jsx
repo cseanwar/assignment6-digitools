@@ -1,4 +1,4 @@
-const Navbar = () => {
+const Navbar = ({ cartItems }) => {
   return (
     <div className="shadow-sm py-2 bg-[#FFFFFF]">
       <div className="navbar container mx-auto">
@@ -42,7 +42,7 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <a className="text-[40px] font-extrabold bg-linear-to-r from-[#4f39f6] to-[#9514fa] bg-clip-text text-transparent">
+          <a className="text-[25px] md:text-[40px] font-extrabold bg-linear-to-r from-[#4f39f6] to-[#9514fa] bg-clip-text text-transparent">
             DigiTools
           </a>
         </div>
@@ -68,11 +68,13 @@ const Navbar = () => {
         <div className="navbar-end flex gap-6">
           <div className="relative">
             <img className="w-6 h-6" src="/shopping-cart.png" alt="" />
-            
+
+            {cartItems.length > 0 && (
               <div className="badge badge-error absolute -top-4 -right-4 w-7 h-7 rounded-full text-white font-bold">
-                
+                {cartItems.length}
               </div>
-            
+            )}
+
           </div>
           <p className="text-[#101727] font-semibold text-base">Login</p>
           <a className="btn rounded-full bg-linear-to-r from-[#4f39f6] to-[#9514fa] text-base font-semibold text-[#FFFFFF]">

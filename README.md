@@ -14,10 +14,10 @@ __DigiTools__ is a modern React-based web application built using dynamic compon
 ---
 
 ## ✨ Key Features
-- 🔹 Dynamic product rendering using reusable components  
-- 🔹 Interactive UI with state management (selection, filtering, etc.)  
-- 🔹 Fully responsive design for mobile, tablet, and desktop  
-- 🔹Fully interactive cart section with proceed to checkout functionalities.
+🔹 Dynamic product rendering using reusable components  
+🔹 Interactive UI with state management (selection, filtering, etc.)  
+🔹 Fully responsive design for mobile, tablet, and desktop  
+🔹Fully interactive cart section with proceed to checkout functionalities.
 ---
 
 ## 📷 Live Demo

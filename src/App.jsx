@@ -1,5 +1,6 @@
 import './App.css'
 import Banner from './components/Banner'
+import Footer from './components/Footer'
 import Navbar from './components/Navbar'
 import Pricing from './components/Pricing'
 import Ratings from './components/Ratings'
@@ -16,6 +17,7 @@ function App() {
      <StepsCards />
      <Pricing />
      <TransformSection />
+     <Footer />
     </>
   )
 }

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Resume Builder",
+    "description": "Create professional resumes quickly using simple templates and tools.",
+    "price": 9,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "20+ templates",
+      "Basic customization",
+      "Export to PDF",
+      "Cover letter templates"
+    ],
+    "icon": "📄"
+  },
+  {
+    "id": 2,
+    "name": "Pro Resume Builder",
+    "description": "Build advanced resumes with modern templates and ATS optimization.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF & Word",
+      "Custom sections"
+    ],
+    "icon": "🚀"
+  },
+  {
+    "id": 3,
+    "name": "Career Boost Pack",
+    "description": "All-in-one package for resumes, cover letters, and career growth.",
+    "price": 49,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Resume + Cover Letter builder",
+      "LinkedIn optimization",
+      "Interview tips",
+      "Priority support"
+    ],
+    "icon": "💼"
+  },
+  {
+    "id": 4,
+    "name": "Portfolio Builder",
+    "description": "Design stunning portfolios with drag-and-drop and responsive layouts.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "Trending",
+    "tagType": "popular",
+    "features": [
+      "Drag & drop builder",
+      "Custom domains",
+      "Responsive design",
+      "SEO optimization"
+    ],
+    "icon": "🎨"
+  },
+  {
+    "id": 5,
+    "name": "AI Resume Writer",
+    "description": "Generate resumes using AI-powered suggestions and real-time improvements.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "AI-generated content",
+      "Keyword optimization",
+      "Multiple formats",
+      "Real-time suggestions"
+    ],
+    "icon": "🤖"
+  },
+  {
+    "id": 6,
+    "name": "Job Tracker",
+    "description": "Track and manage job applications with reminders and status updates.",
+    "price": 12,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Application tracking",
+      "Status updates",
+      "Reminders",
+      "Notes section"
+    ],
+    "icon": "📊"
+  },
+  {
+    "id": 7,
+    "name": "Premium Templates Pack",
+    "description": "Access premium templates with modern designs and lifetime availability.",
+    "price": 25,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "200+ premium templates",
+      "Modern designs",
+      "Download anytime",
+      "Lifetime access"
+    ],
+    "icon": "⭐"
+  },
+  {
+    "id": 8,
+    "name": "Interview Prep Kit",
+    "description": "Prepare for interviews with mock questions, tips, and practice tests.",
+    "price": 39,
+    "period": "yearly",
+    "tag": "Recommended",
+    "tagType": "popular",
+    "features": [
+      "Mock interview questions",
+      "Expert tips",
+      "Video lessons",
+      "Practice tests"
+    ],
+    "icon": "🎯"
+  },
+  {
+    "id": 9,
+    "name": "LinkedIn Profile Optimizer",
+    "description": "Optimize LinkedIn profile to attract recruiters and increase visibility.",
+    "price": 22,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Profile analysis",
+      "Keyword optimization",
+      "Headline suggestions",
+      "Visibility boost tips"
+    ],
+    "icon": "🔗"
+  }
+]
